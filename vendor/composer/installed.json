@@ -1,0 +1,33 @@
+[
+    {
+        "name": "dannyben/php-quandl",
+        "version": "v0.5.2",
+        "version_normalized": "0.5.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/DannyBen/php-quandl.git",
+            "reference": "2087585d1161e9fb6c2a55207e8190b719a53aeb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/DannyBen/php-quandl/zipball/2087585d1161e9fb6c2a55207e8190b719a53aeb",
+            "reference": "2087585d1161e9fb6c2a55207e8190b719a53aeb",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2016-06-22 16:19:33",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "Quandl.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ]
+    }
+]
